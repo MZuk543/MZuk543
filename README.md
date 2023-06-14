@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Maria Żukowska @MZuk543
 - 👀 I’m interested in ...(not sure how to expose myself yet ;))
-- 🌱 I’m currently learning Python and SQL
+- 🌱 I’m currently learning Python, SQL and Google Cloud (Data Analysis like BigQuery)
 - 💞️ I’m looking to collaborate on ...(not sure yet)
 - 📫 How to reach me: maria.zukowska@gmail.com
 
